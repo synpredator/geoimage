@@ -23,7 +23,7 @@
 
 
 	//Setting the number of results to be returned per api request
-	$perPage = 50;
+	$perPage = 30;
 
 	//------------------------
 	//Flickr API
