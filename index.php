@@ -205,8 +205,8 @@ $instagram_url = 'https://'.
     	$size = 'c';
     	$title = $single_photo->title;
 
-    	$photo_url = 'http://farm'.$farm_id.'.staticflickr.com/'.$server_id.'/'.$photo_id.'_'.$secret_id.'_'.$size.'.'.'jpg';
-    	$flickr_img= 'http://findicons.com/files/icons/2155/social_media_bookmark/32/flickr.png';
+    	$photo_url = 'https://farm'.$farm_id.'.staticflickr.com/'.$server_id.'/'.$photo_id.'_'.$secret_id.'_'.$size.'.'.'jpg';
+    	$flickr_img= 'https://findicons.com/files/icons/2155/social_media_bookmark/32/flickr.png';
 
     	print '<a href="'.$photo_url.'"  data-toggle="lightbox" data-footer="'.$title.'"><div class="image-block col-sm-3" style="background: url('.$photo_url.') no-repeat center top;background-size:cover;"><p style="font-size:12px;"> '.$title.' </p></div></a>';
 
