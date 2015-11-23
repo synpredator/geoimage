@@ -14,6 +14,15 @@
 
 
     <style>
+    
+    /*
+    *
+    *@Author Keith Holt - x12470008
+    *API Mashup Cloud Computing
+    * API 1 - Google Maps - Gets GEO Coordinates based on user inputted location
+    * API 2 - Instagram - Gets all images that where uploaded from that location based on the geo data
+    * API 3 - Flickr - Get all images that were uploaded from the location based on the geo data
+    */
 
 .container {
   width: auto;
