@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Responsive Gallery Template | PrepBootstrap</title>
+    <title>Geo Image Search | Flickr, Instagram & Google Maps API Mashup</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
